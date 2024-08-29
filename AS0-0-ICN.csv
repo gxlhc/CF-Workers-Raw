@@ -1,0 +1,14 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+45.87.103.162,10001,443,true,ICN,Asia Pacific,Seoul,62,6.41
+193.123.233.143,2096,0,false,ICN,Asia Pacific,Seoul,88,3.24
+146.56.133.140,2096,80,false,ICN,Asia Pacific,Seoul,110,2.25
+146.56.45.187,443,443,true,ICN,Asia Pacific,Seoul,91,1.17
+4.230.8.95,443,443,true,ICN,Asia Pacific,Seoul,142,0.86
+59.187.242.236,14810,443,true,ICN,Asia Pacific,Seoul,240,0.63
+4.218.12.51,443,443,true,ICN,Asia Pacific,Seoul,140,0.57
+59.187.242.236,11889,443,true,ICN,Asia Pacific,Seoul,258,0.30
+59.187.245.232,14308,443,true,ICN,Asia Pacific,Seoul,238,0.03
+193.123.233.143,2083,80,false,ICN,Asia Pacific,Seoul,122,0.00
+13.209.22.185,80,80,false,ICN,Asia Pacific,Seoul,179,0.00
+59.187.242.236,27042,443,true,ICN,Asia Pacific,Seoul,281,0.00
+210.87.195.139,26439,443,true,ICN,Asia Pacific,Seoul,71,0.00
